@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "32050879444",
+    "project_id": "authtutorial-d7d5c",
+    "storage_bucket": "authtutorial-d7d5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32050879444:android:0b2768ae8a3b1d1ac61441",
+        "android_client_info": {
+          "package_name": "com.example.foodplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32050879444-t5t654jt3q04g0c1eefse0vgi02rh3am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ_A1-YU5-Y-k75f7iZv8jcYxhHJq26s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32050879444-t5t654jt3q04g0c1eefse0vgi02rh3am.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32050879444-55cbca32liel6rmktajt6gr8arkotddq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodplace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
